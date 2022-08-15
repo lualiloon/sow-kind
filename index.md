@@ -1,7 +1,7 @@
-# The Sow Kind Project
+## The Sow Kind Project
 
 Time is money, time is impact
 
-## Our Mission
+### Our Mission
 
 TODO
